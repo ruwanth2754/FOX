@@ -30,11 +30,14 @@ This tool is intended **only** for educational and ethical use. Unauthorized usa
 ## 📦 Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/ruwanth2754/Fox.git
-
-# Move into folder
 cd Fox
-
-# Install requirements
 pip install -r requirements.txt
+```
+---
+
+## 📦 Installation
+```bash
+python fox.pyc
+python fox.pyc -u <url> -count <count|| 100>
+```
