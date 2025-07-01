@@ -1,6 +1,8 @@
 # FOX
 #DDOS #DOS
 
+![FOX](./Screenshot_20250701-204512_Termux.jpg)
+
 # 🦊 Fox - Powerful DDoS Tool
 
 Fox is a high-performance DDoS testing tool created for **educational** and **penetration testing** purposes **only**. Use responsibly and only on systems you own or have explicit permission to test.
